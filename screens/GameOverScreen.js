@@ -62,6 +62,7 @@ const styles = StyleSheet.create({
   rootContainer: {
     flex: 1,
     padding: 24,
+    marginTop:24,
     justifyContent: "center",
     alignItems: "center",
   },
